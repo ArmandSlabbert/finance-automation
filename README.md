@@ -51,7 +51,7 @@ automation improves **how efficiently** it happens.
 
 ---
 
-## Who This Is For
+## Who This Is For  
 • Finance Managers  
 • Controllers  
 • Process improvement teams  
